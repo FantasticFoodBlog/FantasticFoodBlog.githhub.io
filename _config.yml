@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: The Fantastic Food Blog # this is the page title
+author: Fantastic Food Blog # this is who wrote it (me!)
+
+theme: jekyll-theme-slate # this is the theme of my page
