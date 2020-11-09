@@ -1,3 +1,3 @@
 # README   
 
-This file describes the project.
+This site publishes to https://fantasticfoodblog.github.io/FantasticFoodBlog.githhub.io/.
