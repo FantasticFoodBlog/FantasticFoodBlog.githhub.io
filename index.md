@@ -4,4 +4,4 @@ I like to create my own recipes, but you might find others here too.
 (Note: If I did not make the recipe myself, I <strong> will </strong> tell you who did!)
 
 
-[Easy Desert Recipes](_posts/Easy-Desert-Recipes.md)
+[Easy Dessert Recipes](_posts/Easy-Desert-Recipes.md)

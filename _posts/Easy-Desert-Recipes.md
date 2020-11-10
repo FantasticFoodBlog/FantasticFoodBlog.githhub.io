@@ -1,4 +1,4 @@
-## Easy desert recipes
+## Easy dessert recipes
 ### 1: Melted chocolate
 Today I made some melted chocolate! It's great on Rice Krispy Treats, Ritz crackers, and more! (It's also FANTASTIC just by itself!)
 Here is how you make it:
