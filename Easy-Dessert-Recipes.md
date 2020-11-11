@@ -5,6 +5,8 @@ permalink: /recipes/easy-desserts
 
 # Easy dessert recipes
 
+Here are some easy dessert recipes that you can make very quickly-- in testing them, I was able to do both in under 10 minutes!
+
 ## 1: Melted chocolate
 Today I made some melted chocolate! It's great on Rice Krispy Treats, Ritz crackers, and more! (It's also FANTASTIC just by itself!)
 Here is how you make it:
