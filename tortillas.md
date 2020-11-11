@@ -12,7 +12,7 @@ Difficulty level: Easy
 
 Ingredients:  
 1 tortilla  
-Plain Hummus (about half of a __ oz container)  
+Plain Hummus (about half of a 2.5 oz container)  
 1-2 slice(s) of lunchmeat turkey
 
 Equipment:  
