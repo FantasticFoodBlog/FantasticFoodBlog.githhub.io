@@ -1,9 +1,15 @@
-## Easy dessert recipes
-### 1: Melted chocolate
+---
+title: "Easy dessert recipes"
+permalink: /recipes/easy-desserts
+---
+
+# Easy dessert recipes
+
+## 1: Melted chocolate
 Today I made some melted chocolate! It's great on Rice Krispy Treats, Ritz crackers, and more! (It's also FANTASTIC just by itself!)
 Here is how you make it:
 
-### Melted Chocolate Recipe  
+## Melted Chocolate Recipe  
 Makes about 1 serving  
 Time: 5-10 minutes  
 Difficulty level: Very easy  
@@ -22,7 +28,7 @@ What you do:
 3. Stir it constantly for about 30 seconds, or until "silky smooth".  <strong> It will look very clumpy, but as you stir it more and more, it WILL get smoother! </strong>  
 4. Drizzle it, dip into it, or scoop it; enjoy your chocolate!!  
 
-### 2: The yummy scoop
+## 2: The yummy scoop
 
 Makes about 1 serving... but you might want more!  
 Time: 5-10 minutes  
