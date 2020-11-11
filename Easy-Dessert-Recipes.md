@@ -32,7 +32,7 @@ What you do:
 
 ## 2: The yummy scoop
 
-Makes about 1 serving... but you might want more!  
+Makes 1 small serving (1 teaspoon-sized scoop)   
 Time: 5-10 minutes  
 Difficulty level: Easy  
 
