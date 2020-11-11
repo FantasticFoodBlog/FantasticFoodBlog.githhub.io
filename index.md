@@ -6,3 +6,6 @@ I like to create my own recipes, but you might find others here too.
 I've divided this blog into a bunch of different pages, and the first one is about some easy desserts that you can make in 5 or 10 minutes! Here is the link:  
 
 [Easy Dessert Recipes](https://fantasticfoodblog.github.io/FantasticFoodBlog.githhub.io/recipes/easy-desserts)
+
+Here are some recipes that you can make using tortillas!  
+[Tortilla Recipes](https://fantasticfoodblog.github.io/FantasticFoodBlog.githhub.io/recipes/tortillas)
